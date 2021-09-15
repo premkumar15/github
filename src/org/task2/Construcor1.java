@@ -17,7 +17,7 @@ public class Construcor1 extends Constructor2 {
 
 	public Construcor1(String nick) {
 
-		System.out.println("String1 "+ nick);
+		System.out.println("String2 "+ nick);
 
 
 }
